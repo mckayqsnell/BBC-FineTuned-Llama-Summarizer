@@ -1,0 +1,11 @@
+venv/
+
+*.pyc
+__pycache__/
+
+.ipynb_checkpoints/
+
+fine-tuned-llama/
+fine-tuned-llama-model/
+
+*.log
